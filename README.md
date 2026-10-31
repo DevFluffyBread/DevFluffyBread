@@ -49,11 +49,9 @@ Tecnologias que fazem parte deste cantinho.
 <br>
 
 ### 🌱 um pouquinho a cada dia
-
-Minhas contribuições no GitHub nos últimos 31 dias.
-
-[![Gráfico de contribuições de DevFluffyBread nos últimos 31 dias](https://github-readme-activity-graph.vercel.app/graph?username=DevFluffyBread&bg_color=FFF8F0&color=6B555D&title_color=6B555D&line=C58DA5&point=9C7BB0&area=true&area_color=E8C5D5&hide_border=true&radius=16&height=300&days=31&custom_title=Meu%20cantinho%20em%20movimento)](https://github.com/DevFluffyBread?tab=overview)
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/DevFluffyBread/DevFluffyBread/activity-graph-output/activity-graph.svg?radius=16&theme=cotton-candy&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 <br>
 
 <div align="center">
